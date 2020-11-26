@@ -8,7 +8,7 @@
 
 ## Days
 
-- [Day 1: TBD](day-01/)
+- [Day 1: ?](day-01/)
 - [Day 2: TBD](day-02/)
 - [Day 3: TBD](day-03/)
 - [Day 4: TBD](day-04/)

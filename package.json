@@ -1,0 +1,20 @@
+{
+  "name": "__AOC_GITHUB_REPO_PREFIX__-__AOC_YEAR__",
+  "version": "1.0.0",
+  "description": "Advent of Code __AOC_YEAR__",
+  "main": "index.js",
+  "author": "__AOC_USER_NAME__ <__AOC_USER_EMAIL__> (__AOC_USER_WEBSITE__)",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha day-*/**/test.js",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/__AOC_GITHUB_USER__/__AOC_GITHUB_REPO_PREFIX__-__AOC_YEAR__.git"
+  },
+  "devDependencies": {
+    "eslint": "^7.14.0",
+    "mocha": "^8.2.1"
+  }
+}

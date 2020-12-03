@@ -7,17 +7,15 @@ module.exports = (input) => {
     let counter = 0;
 
     while (y < map.length) {
-      x += stepsX;
-      y += stepsY;
-
-      if (y >= map.length) {
-        return counter;
-      }
-
       if (map[y][x % map[0].length] === '#') {
         counter++;
       }
+
+      x += stepsX;
+      y += stepsY;
     }
+
+    return counter;
   }
 
   return trees(1, 1) * trees(3, 1) * trees(5, 1) * trees(7, 1) * trees(1, 2);

@@ -6,15 +6,13 @@ module.exports = (input) => {
   let counter = 0;
 
   while (y < map.length) {
-    x += 3;
-    y += 1;
-
-    if (y === map.length) {
-      return counter;
-    }
-
     if (map[y][x % map[0].length] === '#') {
       counter++;
     }
+
+    x += 3;
+    y += 1;
   }
+
+  return counter;
 };

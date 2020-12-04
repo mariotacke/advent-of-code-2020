@@ -17,7 +17,7 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 - [Day 1: Report Repair](day-01-report-repair/)
 - [Day 2: Password Philosophy](day-02-password-philosophy/)
 - [Day 3: Toboggan Trajectory](day-03-toboggan-trajectory/)
-- [Day 4: TBD](day-04/)
+- [Day 4: Passport Processing](day-04-passport-processing/)
 - [Day 5: TBD](day-05/)
 - [Day 6: TBD](day-06/)
 - [Day 7: TBD](day-07/)

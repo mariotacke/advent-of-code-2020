@@ -19,7 +19,7 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 - [Day 3: Toboggan Trajectory](day-03-toboggan-trajectory/)
 - [Day 4: Passport Processing](day-04-passport-processing/)
 - [Day 5: Binary Boarding](day-05-binary-boarding/)
-- [Day 6: TBD](day-06/)
+- [Day 6: Custom Customs](day-06-custom-customs/)
 - [Day 7: TBD](day-07/)
 - [Day 8: TBD](day-08/)
 - [Day 9: TBD](day-09/)

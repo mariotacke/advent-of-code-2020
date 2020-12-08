@@ -21,7 +21,7 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 - [Day 5: Binary Boarding](day-05-binary-boarding/)
 - [Day 6: Custom Customs](day-06-custom-customs/)
 - [Day 7: Handy Haversacks](day-07-handy-haversacks/)
-- [Day 8: TBD](day-08/)
+- [Day 8: Handheld Halting](day-08-handheld-halting/)
 - [Day 9: TBD](day-09/)
 - [Day 10: TBD](day-10/)
 - [Day 11: TBD](day-11/)

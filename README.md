@@ -22,7 +22,7 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 - [Day 6: Custom Customs](day-06-custom-customs/)
 - [Day 7: Handy Haversacks](day-07-handy-haversacks/)
 - [Day 8: Handheld Halting](day-08-handheld-halting/)
-- [Day 9: TBD](day-09/)
+- [Day 9: Encoding Error](day-09-encoding-error/)
 - [Day 10: TBD](day-10/)
 - [Day 11: TBD](day-11/)
 - [Day 12: TBD](day-12/)

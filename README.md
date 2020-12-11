@@ -23,7 +23,7 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 - [Day 7: Handy Haversacks](day-07-handy-haversacks/)
 - [Day 8: Handheld Halting](day-08-handheld-halting/)
 - [Day 9: Encoding Error](day-09-encoding-error/)
-- [Day 10: TBD](day-10/)
+- [Day 10: Adapter Array](day-10-adapter-array/)
 - [Day 11: TBD](day-11/)
 - [Day 12: TBD](day-12/)
 - [Day 13: TBD](day-13/)

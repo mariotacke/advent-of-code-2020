@@ -24,7 +24,7 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 - [Day 8: Handheld Halting](day-08-handheld-halting/)
 - [Day 9: Encoding Error](day-09-encoding-error/)
 - [Day 10: Adapter Array](day-10-adapter-array/)
-- [Day 11: TBD](day-11/)
+- [Day 11: Seating System](day-11-seating-system/)
 - [Day 12: TBD](day-12/)
 - [Day 13: TBD](day-13/)
 - [Day 14: TBD](day-14/)

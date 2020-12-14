@@ -27,7 +27,7 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 - [Day 11: Seating System](day-11-seating-system/)
 - [Day 12: Rain Risk](day-12-rain-risk/)
 - [Day 13: Shuttle Search](day-13-shuttle-search/)
-- [Day 14: TBD](day-14/)
+- [Day 14: Docking Data](day-14-docking-data/)
 - [Day 15: TBD](day-15/)
 - [Day 16: TBD](day-16/)
 - [Day 17: TBD](day-17/)

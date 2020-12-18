@@ -30,7 +30,7 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 - [Day 14: Docking Data](day-14-docking-data/)
 - [Day 15: Rambunctious Recitation](day-15-rambunctious-recitation/)
 - [Day 16: Ticket Translation](day-16-ticket-translation/)
-- [Day 17: TBD](day-17/)
+- [Day 17: Conway Cubes](day-17-conway-cubes/)
 - [Day 18: TBD](day-18/)
 - [Day 19: TBD](day-19/)
 - [Day 20: TBD](day-20/)

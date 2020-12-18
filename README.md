@@ -31,7 +31,7 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 - [Day 15: Rambunctious Recitation](day-15-rambunctious-recitation/)
 - [Day 16: Ticket Translation](day-16-ticket-translation/)
 - [Day 17: Conway Cubes](day-17-conway-cubes/)
-- [Day 18: TBD](day-18/)
+- [Day 18: Operation Order](day-18-operation-order/)
 - [Day 19: TBD](day-19/)
 - [Day 20: TBD](day-20/)
 - [Day 21: TBD](day-21/)

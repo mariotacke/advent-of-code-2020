@@ -14,7 +14,7 @@
     "url": "https://github.com/mariotacke/advent-of-code-2020.git"
   },
   "devDependencies": {
-    "eslint": "^7.14.0",
-    "mocha": "^8.2.1"
+    "eslint": "^8.3.0",
+    "mocha": "^9.1.3"
   }
 }

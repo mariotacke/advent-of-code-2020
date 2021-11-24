@@ -1,7 +1,7 @@
 # Advent of Code 2020 - My Solutions
 [![Build Status](https://github.com/mariotacke/advent-of-code-2020/workflows/build/badge.svg)](https://github.com/mariotacke/advent-of-code-2020/actions)
 [![Completion Status](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/mariotacke/advent-of-code-2020/master/.github/badges/completion.json)](https://github.com/mariotacke/advent-of-code-2020)
-[![Dependency Status](https://img.shields.io/david/mariotacke/advent-of-code-2020.svg)](https://david-dm.org/mariotacke/advent-of-code-2020)
+![Libraries.io dependency status for GitHub repo](https://img.shields.io/librariesio/github/mariotacke/advent-of-code-2020)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/mariotacke/advent-of-code-2020/master/LICENSE)
 
 After saving Christmas [five years in a row](https://adventofcode.com/events), you've decided to take a vacation at a nice resort on a tropical island. Surely, Christmas will go on without you.

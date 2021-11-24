@@ -33,7 +33,7 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 - [Day 17: Conway Cubes](day-17-conway-cubes/)
 - [Day 18: Operation Order](day-18-operation-order/)
 - [Day 19: Monster Messages](day-19-monster-messages/)
-- [Day 20: TBD](day-20/)
+- [Day 20: Jurassic Jigsaw](day-20-jurassic-jigsaw/)
 - [Day 21: TBD](day-21/)
 - [Day 22: TBD](day-22/)
 - [Day 23: TBD](day-23/)

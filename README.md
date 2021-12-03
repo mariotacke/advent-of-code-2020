@@ -34,7 +34,7 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 - [Day 18: Operation Order](day-18-operation-order/)
 - [Day 19: Monster Messages](day-19-monster-messages/)
 - [Day 20: TBD](day-20/)
-- [Day 21: TBD](day-21/)
+- [Day 21: Allergen Assessment](day-21-allergen-assessment/)
 - [Day 22: TBD](day-22/)
 - [Day 23: TBD](day-23/)
 - [Day 24: TBD](day-24/)

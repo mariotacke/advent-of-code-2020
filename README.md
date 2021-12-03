@@ -35,7 +35,7 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 - [Day 19: Monster Messages](day-19-monster-messages/)
 - [Day 20: TBD](day-20/)
 - [Day 21: Allergen Assessment](day-21-allergen-assessment/)
-- [Day 22: TBD](day-22/)
+- [Day 22: Crab Combat](day-22-crab-combat/)
 - [Day 23: TBD](day-23/)
 - [Day 24: TBD](day-24/)
 - [Day 25: TBD](day-25/)
